@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+*.zip
+Archive/
+Moon_new.csv
+Moon_feedback.xlsx
+Moon_feedback_full.csv
+.streamlit/secrets.toml
