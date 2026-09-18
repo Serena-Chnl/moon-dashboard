@@ -63,6 +63,8 @@ Month,Platform,Star_1,Star_2,Star_3,Star_4,Star_5,Total,Avg_Rating
 2026-06,Tripadvisor,0,0,1,2,5,8,4.5
 2026-07,Google,1,0,1,8,29,39,4.64
 2026-07,Tripadvisor,0,0,0,1,7,8,4.88
-All Time,All Platforms,138,146,240,587,1784,2895,4.29
-All Time,Google,92,77,138,360,1269,1936,4.36
-All Time,Tripadvisor,46,69,102,227,515,959,4.14
+2026-08,Google,2,2,0,7,32,43,4.51
+2026-08,Tripadvisor,0,1,1,1,5,8,4.25
+All Time,All Platforms,140,149,241,595,1821,2946,4.29
+All Time,Google,94,79,138,367,1301,1979,4.37
+All Time,Tripadvisor,46,70,103,228,520,967,4.14
